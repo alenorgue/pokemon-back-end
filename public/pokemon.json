@@ -237,4 +237,530 @@
     "evolves_from_species": "Pichu",
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
   }
+  ,
+  {
+    "id": 26,
+    "name": "Raichu",
+    "type": ["Eléctrico"],
+    "evolves_from_species": "Pikachu",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "type": ["Tierra"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png"
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "type": ["Tierra"],
+    "evolves_from_species": "Sandshrew",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "type": ["Veneno"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png"
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "type": ["Veneno"],
+    "evolves_from_species": "Nidoran♀",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "type": ["Veneno", "Tierra"],
+    "evolves_from_species": "Nidorina",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png"
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "type": ["Veneno"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png"
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "type": ["Veneno"],
+    "evolves_from_species": "Nidoran♂",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "type": ["Veneno", "Tierra"],
+    "evolves_from_species": "Nidorino",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png"
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "type": ["Hada"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png"
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "type": ["Hada"],
+    "evolves_from_species": "Clefairy",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png"
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "type": ["Fuego"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "type": ["Fuego"],
+    "evolves_from_species": "Vulpix",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "type": ["Normal", "Hada"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "type": ["Normal", "Hada"],
+    "evolves_from_species": "Jigglypuff",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png"
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "type": ["Veneno", "Volador"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "type": ["Veneno", "Volador"],
+    "evolves_from_species": "Zubat",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png"
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "type": ["Planta", "Veneno"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "type": ["Planta", "Veneno"],
+    "evolves_from_species": "Oddish",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png"
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "type": ["Planta", "Veneno"],
+    "evolves_from_species": "Gloom",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png"
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "type": ["Bicho", "Planta"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png"
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "type": ["Bicho", "Planta"],
+    "evolves_from_species": "Paras",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png"
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "type": ["Bicho", "Veneno"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png"
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "type": ["Bicho", "Veneno"],
+    "evolves_from_species": "Venonat",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png"
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "type": ["Tierra"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png"
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "type": ["Tierra"],
+    "evolves_from_species": "Diglett",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png"
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "type": ["Normal"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png"
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "type": ["Normal"],
+    "evolves_from_species": "Meowth",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png"
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "type": ["Agua"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png"
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "type": ["Agua"],
+    "evolves_from_species": "Psyduck",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png"
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "type": ["Lucha"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "type": ["Lucha"],
+    "evolves_from_species": "Mankey",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png"
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "type": ["Fuego"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png"
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "type": ["Fuego"],
+    "evolves_from_species": "Growlithe",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png"
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "type": ["Agua"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png"
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "type": ["Agua"],
+    "evolves_from_species": "Poliwag",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png"
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "type": ["Agua", "Lucha"],
+    "evolves_from_species": "Poliwhirl",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png"
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "type": ["Psíquico"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png"
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "type": ["Psíquico"],
+    "evolves_from_species": "Abra",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png"
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "type": ["Psíquico"],
+    "evolves_from_species": "Kadabra",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "type": ["Lucha"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "type": ["Lucha"],
+    "evolves_from_species": "Machop",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png"
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "type": ["Lucha"],
+    "evolves_from_species": "Machoke",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png"
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "type": ["Planta", "Veneno"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png"
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "type": ["Planta", "Veneno"],
+    "evolves_from_species": "Bellsprout",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png"
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "type": ["Planta", "Veneno"],
+    "evolves_from_species": "Weepinbell",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png"
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "type": ["Agua", "Veneno"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png"
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "type": ["Agua", "Veneno"],
+    "evolves_from_species": "Tentacool",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png"
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "type": ["Roca", "Tierra"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png"
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "type": ["Roca", "Tierra"],
+    "evolves_from_species": "Geodude",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "type": ["Roca", "Tierra"],
+    "evolves_from_species": "Graveler",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "type": ["Fuego"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png"
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "type": ["Fuego"],
+    "evolves_from_species": "Ponyta",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png"
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "type": ["Agua", "Psíquico"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png"
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "type": ["Agua", "Psíquico"],
+    "evolves_from_species": "Slowpoke",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "type": ["Eléctrico", "Acero"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png"
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "type": ["Eléctrico", "Acero"],
+    "evolves_from_species": "Magnemite",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png"
+  },
+  {
+    "id": 83,
+    "name": "Farfetch'd",
+    "type": ["Normal", "Volador"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png"
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "type": ["Normal", "Volador"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png"
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "type": ["Normal", "Volador"],
+    "evolves_from_species": "Doduo",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png"
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "type": ["Agua"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png"
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "type": ["Agua", "Hielo"],
+    "evolves_from_species": "Seel",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png"
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "type": ["Veneno"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png"
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "type": ["Veneno"],
+    "evolves_from_species": "Grimer",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png"
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "type": ["Agua"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png"
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "type": ["Agua", "Hielo"],
+    "evolves_from_species": "Shellder",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png"
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "type": ["Fantasma", "Veneno"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png"
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "type": ["Fantasma", "Veneno"],
+    "evolves_from_species": "Gastly",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png"
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "type": ["Fantasma", "Veneno"],
+    "evolves_from_species": "Haunter",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "type": ["Roca", "Tierra"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png"
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "type": ["Psíquico"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png"
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "type": ["Psíquico"],
+    "evolves_from_species": "Drowzee",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png"
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "type": ["Agua"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "type": ["Agua"],
+    "evolves_from_species": "Krabby",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png"
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "type": ["Eléctrico"],
+    "evolves_from_species": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
+  }
 ]
