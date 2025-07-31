@@ -5,7 +5,7 @@ import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
 import cors from 'cors';
-
+import router from './routes/routes.js';
 dotenv.config();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -20,25 +20,10 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, 'public')));
 
-//Ruta json Local
-const jsonPath = path.join(__dirname, 'public', 'pokemon.json');
+app.use('/api', router);
 
-app.get('/api/pokemons', (req, res) => {
-  fs.readFile(jsonPath, 'utf8', (err, data) => {
-    if (err) {
-      return res.status(500).json({ error: 'Error reading file' });
-    }
-    try {
-      const pokemons = JSON.parse(data);
-      res.json(pokemons);
-    } catch (parseError) {
-      res.status(500).json({ error: 'Error parsing JSON' });
-      console.log('Error parsing JSON:', parseError);
-    }
-      
-    })}
-);
 
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
+
