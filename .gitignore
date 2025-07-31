@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# Coverage
+coverage/
+
+# Build output
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Others
+*.swp
+*.swo
+.idea/
+*.iml
